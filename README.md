@@ -1,7 +1,7 @@
 # Chainlink-Hackathon-2021
 Predict Perfect is a protocol to track and record publically available prediction estimates of price and earnings of company stocks. By comparing predictions to financial data oracles we can definitively track the prediction record on the blockchain. In this way we can rank and compare the quality of analysts who make predictions.
 
-# Obtain Analyst Price Targets and Earnings
+## Obtain Analyst Price Targets and Earnings
 
 There are 2 ways analysts can be tracked on the platform
 1) Analysts are tracked directly from external stock recommendation API feeds into Oracle jobs
